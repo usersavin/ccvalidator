@@ -1,0 +1,5 @@
+{
+  "name": "SecureCard Insight",
+  "description": "A sophisticated credit card validator featuring real-time Luhn algorithm checking, issuer identification, and AI-powered financial security insights using Gemini.",
+  "requestFramePermissions": []
+}
